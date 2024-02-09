@@ -17,11 +17,11 @@
 Ključne funkcionalnosti:
 
 - Admin kontrolna tabla koja služi kao CMS, Admin i API!
-- Mogućnost upravljanja s više prodavaca / prodavnica putem ovog jedinstvenog CMS-a! (Na primjer, možete imati "Prodavnicu obuće", "Prodavnicu laptopa" i "Prodavnicu odijela", a CMS će generisati API rute za sve te pojedinačno!)
+- Mogućnost upravljanja s više prodavaca / prodavnica putem ovog jedinstvenog CMS-a! (Na primjer, možete imati "Prodavnicu organskog voća", "Prodavnicu džemova" i "Prodavnicu sokova", a CMS će generisati API rute za sve te pojedinačno!)
 - Mogućnost kreiranja, ažuriranja i brisanja kategorija!
 - Mogućnost kreiranja, ažuriranja i brisanja proizvoda!
 - Mogućnost dodavanja više slika za proizvode i mijenjanja istih kad god želite!
-- Mogućnost kreiranja, ažuriranja i brisanja filtera poput "Boje" i "Veličine", te njihovo povezivanje u formi za kreiranje "Proizvoda".
+- Mogućnost kreiranja, ažuriranja i brisanja filtera poput "Starosti proizvoda" i "Veličine", te njihovo povezivanje u formi za kreiranje "Proizvoda".
 - Mogućnost kreiranja, ažuriranja i brisanja "Billboard-a" koji predstavljaju velike tekstove na vrhu stranice. Mogućnost povezivanja s jednom kategorijom ili korišćenje samostalno (Admin generiše API za sve te slučajeve!)
 - Mogućnost pretrage kroz sve kategorije, proizvode, veličine, boje, billboard-e s uključenom paginacijom!
 - Mogućnost kontrole koje su proizvodi "istaknuti" kako bi se prikazali na početnoj stranici!
