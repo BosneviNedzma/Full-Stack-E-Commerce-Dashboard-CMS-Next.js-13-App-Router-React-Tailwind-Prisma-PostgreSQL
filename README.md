@@ -1,4 +1,4 @@
-# Inline shop kreiran koristeći: Next.js-13-App-Router-React-Tailwind-Prisma-PostgreSQL-Neon.tech
+# Online shop kreiran koristeći: Next.js-13-App-Router-React-Tailwind-Prisma-PostgreSQL-Neon.tech
 
 ### Izgrađeno s:
 - TypeScript
