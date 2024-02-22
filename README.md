@@ -2,7 +2,7 @@
 
 ### Izgrađeno s:
 - TypeScript
-- [TailwindCSS](https://tailwindcss.com) - Framework za CSS sa fokusom na efikasnost.
+- [TailwindCSS](https://tailwindcss.com) - Framework za CSS s fokusom na efikasnost.
 - [React](https://reactjs.org/) - JavaScript biblioteka.
 - [NextJS](https://nextjs.org) - Next.js omogućava kreiranje full-stack web aplikacija proširujući najnovije mogućnosti React-a.
 - [Prisma](https://www.prisma.io) - ORM (Object-Relational Mapping) za Node.js i TypeScript.
